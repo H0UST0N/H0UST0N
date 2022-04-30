@@ -3,11 +3,11 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Houston Armstrong</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=H0UST0N&color=blue" alt="Profile views" /> </p>
 
-- 🔥 Project Manager & Full Stack Developer
+- 🔥&nbsp;&nbsp;&nbsp;Project Manager & Full Stack Developer
 
-- 🔭 I’m currently working at [MedClub](https://medclub.com.br)
+- 👨🏾‍💻&nbsp;&nbsp;&nbsp;&nbsp;I’m currently working at [MedClub](https://medclub.com.br)
 
-- 👨‍💻 All of my projects are available [here](https://github.com/H0UST0N?tab=repositories)
+- 🗂&nbsp;&nbsp;&nbsp;All of my projects are available [here](https://github.com/H0UST0N?tab=repositories)
 
 
 <br><br>
@@ -48,7 +48,7 @@
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 🧔🏾‍♂️ &nbsp;Social Links
 
 <p align="left" style="background:blue">
 <a href="https://twitter.com/H0UST0N" target="_blank">
