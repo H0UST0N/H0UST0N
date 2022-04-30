@@ -8,8 +8,6 @@
 - 👨🏾‍💻&nbsp;&nbsp;&nbsp;&nbsp;I’m currently working at [MedClub](https://medclub.com.br)
 
 - 🗂&nbsp;&nbsp;&nbsp;All of my projects are available [here](https://github.com/H0UST0N?tab=repositories)
-
-
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -36,7 +34,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -45,7 +42,6 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=H0UST0N&show_icons=true&theme=github_dark" alt="H0UST0N's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H0UST0N&layout=compact&theme=github_dark" alt="H0UST0N's most languages"/>
 </p>
-
 <br><br>
 
 ## 🧔🏾‍♂️ &nbsp;Social Links
