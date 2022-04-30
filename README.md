@@ -5,9 +5,10 @@
 
 - 🔥 Project Manager & Full Stack Developer
 
-- 🔭 I’m currently working at <a href="https://medclub.com.br" target="_blank">MedClub</a>
+- 🔭 I’m currently working at [MedClub](https://medclub.com.br)
 
-- 👨‍💻 All of my projects are available <a href="https://github.com/H0UST0N?tab=repositories" target="_blank">here</a>
+- 👨‍💻 All of my projects are available [here](https://github.com/H0UST0N?tab=repositories)
+
 
 <br><br>
 
