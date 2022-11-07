@@ -1,11 +1,10 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/H0UST0N/c6d207ade8ee5694f9604a36bb78e7fa/raw/40baa69998320d8ccbf2f14361df31ba44d2f6d0/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Houston Armstrong</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=H0UST0N&color=blue" alt="Profile views" /> </p>
 
 - 🔥&nbsp;&nbsp;&nbsp;Project Manager & Full Stack Developer
 
-- 👨🏾‍💻&nbsp;&nbsp;&nbsp;&nbsp;I’m currently working at [MedClub](https://medclub.com.br)
+- 👨🏾‍💻&nbsp;&nbsp;&nbsp;&nbsp;I’m currently working at [CI&T](https://ciandt.com)
 
 - 🗂&nbsp;&nbsp;&nbsp;All of my projects are available [here](https://github.com/H0UST0N?tab=repositories)
 <br><br>
